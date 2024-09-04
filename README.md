@@ -13,5 +13,5 @@
   <br /> LM35 temperature Sensor
   <br /> Output LEDs
   <br /> CH340T Based USB to Serial
-  <br /> Multiple input/output Voltage options
+  <br /> Ample terminals and pins for input/output Voltages
   
